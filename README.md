@@ -1,0 +1,1 @@
+This bundle has moved to [Problematic/ProblematicAclManagerBundle](https://github.com/Problematic/ProblematicAclManagerBundle)
